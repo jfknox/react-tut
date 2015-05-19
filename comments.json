@@ -1,12 +1,12 @@
 [
     {
         "author": "Mike Hunt",
-        "quest": "to seek the holy grail", 
+        "text": "to seek the holy grail", 
         "color": "orange, no, blue!!"
     },
     {
         "author": "Turd Fergusen",
-        "quest": "to run around naked",
+        "text": "to run around naked",
         "color": "yellow, like your belly"
     }
 ]
